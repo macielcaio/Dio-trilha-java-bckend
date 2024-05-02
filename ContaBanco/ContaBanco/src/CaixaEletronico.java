@@ -19,6 +19,9 @@ public class CaixaEletronico {
 
                 System.out.println("O valor atual do seu saldo em conta é: " + valorSaque);
             }
+            else{
+                System.out.println("saldo insuficiente");
+            }
 
             entrada.close();
 
