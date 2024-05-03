@@ -11,3 +11,4 @@ Desafios em Java do curso de Developer Back-End by DIO
     - CepInvalidException.java e FormatadorCepExemplo.java (Crição de exceptions customizadas)
 - Controle Candidatos (Condicionais)
     - ProcessoSeletivo.java (IF, ELSE IF, ELSE)
+- DesafioControleFluxo (Condicionais, exceptions e validação de fluxo com condicionais)
