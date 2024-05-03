@@ -9,4 +9,5 @@ Desafios em Java do curso de Developer Back-End by DIO
     - AbouMe.java (Try/Catch)
     - ExceptionExample.java (Throws Exceptions)
     - CepInvalidException.java e FormatadorCepExemplo.java (Crição de exceptions customizadas)
-
+- Controle Candidatos (Condicionais)
+    - ProcessoSeletivo.java (IF, ELSE IF, ELSE)
