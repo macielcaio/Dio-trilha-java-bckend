@@ -12,3 +12,4 @@ Desafios em Java do curso de Developer Back-End by DIO
 - Controle Candidatos (Condicionais)
     - ProcessoSeletivo.java (IF, ELSE IF, ELSE)
 - DesafioControleFluxo (Condicionais, exceptions e validação de fluxo com condicionais)
+(*URL do desafio proposto:* https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
